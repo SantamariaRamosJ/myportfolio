@@ -1,6 +1,5 @@
 {
   "hosting": {
-    "site":"arizakevin",
     "public": "dist",
     "ignore": [
       "firebase.json",
